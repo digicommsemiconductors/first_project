@@ -1,4 +1,5 @@
-int main(int a,int b)
+int mul(int,int);
+int mul(int a,int b)
 {
 int c;
 c=a*b;
